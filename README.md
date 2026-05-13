@@ -82,7 +82,8 @@ print(f"Final bias (b): {b}")
 ```
 
 ## Output:
-<img width="910" height="631" alt="image" src="https://github.com/user-attachments/assets/3c9b69d1-a611-4cc7-b42e-c3618da6a195" />
+
+<img width="1278" height="588" alt="WhatsApp Image 2026-05-12 at 9 52 54 AM" src="https://github.com/user-attachments/assets/aafd70b1-994e-4b45-b4ed-8ce74b9506a7" />
 
 
 
